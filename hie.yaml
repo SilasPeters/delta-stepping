@@ -1,0 +1,7 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "delta-stepping:lib"
+    - path: "./test"
+      component: "delta-stepping:test:delta-stepping"
+
